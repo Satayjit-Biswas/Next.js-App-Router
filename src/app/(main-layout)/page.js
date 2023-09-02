@@ -1,6 +1,6 @@
 const HomePage = () => {
     return (
-        <div>
+        <div className="min-h-screen">
             <button className="btn btn-active">Default</button>
             <button className="btn btn-active btn-neutral">Neutral</button>
             <button className="btn btn-active btn-primary">Primary</button>
